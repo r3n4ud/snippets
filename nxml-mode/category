@@ -1,0 +1,5 @@
+#contributor : Renaud Aubin <renaud.aubin@gmail.com>
+#name : <category ... />
+#condition : (string= (buffer-name) "AndroidManifest.xml")
+# --
+<category android:name="android.intent.category.$0" />

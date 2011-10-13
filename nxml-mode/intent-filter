@@ -1,0 +1,7 @@
+#contributor : Renaud Aubin <renaud.aubin@gmail.com>
+#name : <intent-filter> ... </intent-filter>
+#condition : (string= (buffer-name) "AndroidManifest.xml")
+# --
+<intent-filter>
+  $0
+</intent-filter>

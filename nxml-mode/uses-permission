@@ -1,0 +1,5 @@
+#contributor : Renaud Aubin <renaud.aubin@gmail.com>
+#name : <uses-permission ... />
+#condition : (string= (buffer-name) "AndroidManifest.xml")
+# --
+<uses-permission android:name="android.permission.$0" />
