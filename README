@@ -15,3 +15,8 @@ your .emacs file:
                        ac-source-words-in-same-mode-buffers))
     ((lambda () (auto-complete-mode 1)))))
 (add-hook 'nxml-mode-hook 'ac-android-manifest-nxml-setup)
+
+* java-mode
+These snippets are intended to be used in confunction with the java mode. The first version of these
+snippets comes from https://github.com/nekop/yasnippet-java-mode (though the bsh-related snippets
+have been deleted).
