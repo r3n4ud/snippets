@@ -1,4 +1,6 @@
-#name : do { ... } while (...)
+# contributor: Renaud Aubin <renaud.aubin@gmail.com>
+# name: do { ... } while (...)
+# key: do
 # --
 do {
     $0

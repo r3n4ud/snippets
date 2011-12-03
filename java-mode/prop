@@ -1,4 +1,6 @@
-#name :  prop
+# contributor: Renaud Aubin <renaud.aubin@gmail.com>
+# name:  prop
+# key: prop
 # --
 private ${1:String} ${2:name};
 

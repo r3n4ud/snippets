@@ -1,4 +1,6 @@
-#name : class { ... }
+# contributor: Renaud Aubin <renaud.aubin@gmail.com>
+# name: class { ... }
+# key: class
 # --
 public class ${1:`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`} {
     $0

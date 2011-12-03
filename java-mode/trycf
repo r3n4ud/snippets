@@ -1,4 +1,6 @@
-#name : try, catch
+# contributor: Renaud Aubin <renaud.aubin@gmail.com>
+# name: try, catch
+# key: trycf
 # --
 try {
     $0
