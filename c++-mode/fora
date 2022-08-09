@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fora
+# key: fora
+# --
+for (${1:const auto& }${2:elt} : ${3:container}) {
+    $0
+}
